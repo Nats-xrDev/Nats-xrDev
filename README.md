@@ -1,48 +1,28 @@
-# XR Developer in Japan👋
-### Just 20 years old 
-### Feel free to contact me anytime!👍
-#
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foo_name&show_icons=true&theme=vue-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foo_name&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Foo_name&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064)
+# I'm XR Developer🧑‍💻
+Hello, my name is Nats. I am deeply passionate about  XR development. <br>
+Specifically, I am actively involved in creating immersive experiences using Unity for game development, C# for programming , and Maya for 3D modeling. <br> Additionally, I have experience in web development, which has broadened my range of technical skills.
 
 
-# NOW TRAINING
+Continual learning is my motto ; <br>I am always eager to tackle new technologies and ideas, and apply them to real products. This not only aids in my personal growth but also contributes to the industry. <br>If you are interested in discussing any of these fields, please feel free to contact me.
+# My Skill
+## Currently Focused
+<img src="https://skillicons.dev/icons?i=unity,cs&theme=light" /> <img src ="https://github.com/Nats-xrDev/Nats-xrDev/assets/86301377/48e86101-7e80-41be-ae62-ca0db6ea615a" width = 54px><img src="https://skillicons.dev/icons?i=blender,gcp&theme=light" /> <br /><br />
+## Other
+<img src="https://skillicons.dev/icons?i=html,css,js,py,vim,figma,git,github,bitbucket,visualstudio,vscode,ps,ai,ae,xd&theme=light" /> <br /><br />
 
+# Daily Development
+[![](https://raw.githubusercontent.com/Nats-xrDev/Nats-xrDev/main/profile-summary-card-output/graywhite/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Nats-xrDev/Nats-xrDev/main/profile-summary-card-output/graywhite/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Nats-xrDev/Nats-xrDev/main/profile-summary-card-output/graywhite/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Nats-xrDev/Nats-xrDev/main/profile-summary-card-output/graywhite/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+<br><br>
+
+# <img src="https://github.com/Nats-xrDev/Nats-xrDev/assets/86301377/f6202835-52e4-4dc9-8c51-6bb70c6ae49f" width = 3%> Feel free to contact me 
 <p align="left">
-<a href="https://twitter.com/[Foo]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
-<a href="[Foo_email]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[Foo_email]"/></a>
+<a href="https://twitter.com/nats_vr" target="blank"><img align="center" src="https://github.com/Nats-xrDev/Nats-xrDev/assets/86301377/d7315d6f-74b3-4a17-855b-edbb2d3fba40" alt="Xlink" width="40" /></a>
+<a href="https://discord.com/users/1151111167561961544" target="blank"><img align="center" src="https://github.com/Nats-xrDev/Nats-xrDev/assets/86301377/1cfc1d1a-e6ca-46f3-a33d-074642ecb04d" alt="DiscordLink" width="40" /></a>
+
+
+</a>
 </p>
-
-
-
-# My Skill (Programming Languages, Frameworks and Tools)
-
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gutlab,jquery,aws,vite" /> <br /><br />
-
-  ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
-  
-# NOW TRAINING
-
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
-
-
-<!-- --------------------------------- :) ---------------------------------- -->
-
-<br><br><br>
-
-<div align="center">
-    <h1>
-        <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
-        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
-    </h1>
-  </div>
-<br><br><br>
