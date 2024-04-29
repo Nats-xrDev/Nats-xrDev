@@ -20,8 +20,8 @@ Continual learning is my motto ; <br>I am always eager to tackle new technologie
 
 # <img src="https://github.com/Nats-xrDev/Nats-xrDev/assets/86301377/f6202835-52e4-4dc9-8c51-6bb70c6ae49f" width = 3%> Feel free to contact me 
 <p align="left">
-<a href="https://twitter.com/nats_vr" target="blank"><img align="center" src="https://github.com/Nats-xrDev/Nats-xrDev/assets/86301377/d7315d6f-74b3-4a17-855b-edbb2d3fba40" alt="Xlink" width="40" /></a>
-<a href="https://discord.com/users/1151111167561961544" target="blank"><img align="center" src="https://github.com/Nats-xrDev/Nats-xrDev/assets/86301377/1cfc1d1a-e6ca-46f3-a33d-074642ecb04d" alt="DiscordLink" width="40" /></a>
+<a href="https://twitter.com/nats_vr" target="_blank"><img align="center" src="https://github.com/Nats-xrDev/Nats-xrDev/assets/86301377/d7315d6f-74b3-4a17-855b-edbb2d3fba40" alt="Xlink" width="40" /></a>
+<a href="https://discord.com/users/1151111167561961544"target="_blank"><img align="center" src="https://github.com/Nats-xrDev/Nats-xrDev/assets/86301377/1cfc1d1a-e6ca-46f3-a33d-074642ecb04d" alt="DiscordLink" width="40" /></a>
 
 
 </a>
