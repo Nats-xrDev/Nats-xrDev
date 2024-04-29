@@ -1,4 +1,4 @@
-# I'm XR Developer🧑‍💻
+# I'm XR Creator🧑‍💻
 Hello, my name is Nats. I am deeply passionate about  XR development. <br>
 Specifically, I am actively involved in creating immersive experiences using Unity for game development, C# for programming , and Maya for 3D modeling. <br> Additionally, I have experience in web development, which has broadened my range of technical skills.
 
