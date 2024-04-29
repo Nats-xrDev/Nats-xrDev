@@ -2,8 +2,15 @@
 Hello, my name is Nats. I am deeply passionate about  XR development. <br>
 Specifically, I am actively involved in creating immersive experiences using Unity for game development, C# for programming , and Maya for 3D modeling. <br> Additionally, I have experience in web development, which has broadened my range of technical skills.
 
-
 Continual learning is my motto ; <br>I am always eager to tackle new technologies and ideas, and apply them to real products. This not only aids in my personal growth but also contributes to the industry. <br>If you are interested in discussing any of these fields, please feel free to contact me.
+
+## My Account 
+(Please note that all content is available in Japanese only.)
+
+X Account: https://twitter.com/nats_vr <br>
+Tech Articles: https://qiita.com/_Nats_<br>
+Portfolio: https://fori.io/Nats-xrDev <br>
+<br><br><br>
 # My Skill
 ## Currently Focused
 <img src="https://skillicons.dev/icons?i=unity,cs&theme=light" /> <img src ="https://github.com/Nats-xrDev/Nats-xrDev/assets/86301377/48e86101-7e80-41be-ae62-ca0db6ea615a" width = 54px><img src="https://skillicons.dev/icons?i=blender,gcp&theme=light" /> <br /><br />
